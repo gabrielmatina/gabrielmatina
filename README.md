@@ -1,6 +1,6 @@
 <img src="header.svg"></img>
-### Pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. 
-### Estudante da [Trybe] **futuro Cientista de Dados** .🤓 <br><br>
+### Neuro divergente com ceratocone, pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. 
+### Estudante da [Trybe](https://www.betrybe.com/) **futuro Cientista de Dados**. 🤓 <br><br>
 ## 📱 **Contact:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
