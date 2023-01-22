@@ -1,7 +1,7 @@
 <img src="header.svg"></img>
 ### Neuro divergente com ceratocone, pai do Lorenzo esposo da Paula 👪.
 ### Estudante da [Trybe](https://www.betrybe.com/) **futuro Cientista de Dados**. 🤓 <br><br>
-## 📱 **Contact:**
+<font size="6">📱 Contact:</font>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://github.com/gabrielmatina)
@@ -12,7 +12,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://api.whatsapp.com/send?phone=5531973532831)
 
-## 🚀 **Skills:**
+<details>
+  <summary><font size="6">🧠 Soft Skills:</font></summary>
+</details>
+<details>
+  <summary><font size="6">🚀 Hard Skills:</font></summary>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://pt.wikipedia.org/wiki/HTML5)
@@ -27,9 +31,10 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )](https://pt.wikipedia.org/wiki/Mysql)
 
+</details>
 
-
-## 👨‍💻 **Coming soon:**
+<details>
+<summary><font size="6">🌱 Coming soon:</font></summary>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )](https://pt.wikipedia.org/wiki/Python)
@@ -45,8 +50,7 @@
 )](https://pt.wikipedia.org/wiki/TypeScript)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )](https://pt.wikipedia.org/wiki/MongoDB)
-
-<br>
+</details>
 
 ![Gabriel Matina GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmatina&show_icons=true&theme=dracula)
 
