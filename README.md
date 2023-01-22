@@ -1,5 +1,5 @@
 <img src="header.svg"></img>
-### Neuro divergente com ceratocone, pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. 
+### Neuro divergente com ceratocone, pai do Lorenzo esposo da Paula 👪.
 ### Estudante da [Trybe](https://www.betrybe.com/) **futuro Cientista de Dados**. 🤓 <br><br>
 ## 📱 **Contact:**
 
