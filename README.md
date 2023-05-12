@@ -36,8 +36,7 @@
 <details>
 <summary><font size="6">🌱 Coming soon:</font></summary>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-)](https://pt.wikipedia.org/wiki/Python)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )](https://pt.wikipedia.org/wiki/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -48,7 +47,7 @@
 )](https://pt.wikipedia.org/wiki/Node.js)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 )](https://pt.wikipedia.org/wiki/TypeScript)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&target=_blank
 )](https://pt.wikipedia.org/wiki/MongoDB)
 </details>
 
