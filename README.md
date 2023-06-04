@@ -3,15 +3,15 @@
 - 📚 Estudande de Desenvolvimento Web Full-Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>;
 - 💬 Estou em busca de vagas para em desenvolvimento full stack, QA, Data Science e Machine Learning;
 - 🗂️ Portfólio: <a href="https://gabrielmatina.github.io/">Clique para Visualizar</a>;
-- 📄 Currículo - [Clique para Download](Curriculum.pdf);
+- 📄 Currículo - [Clique para Visualizar](Curriculum.pdf);
 - 📧 Email: gabrielmatina@hotmail.com;
 - 📱 Celular: +55 (31) 99477-9072;
-- 📫 LinkedIn e Whatsapp disponíveis abaixo. Me chamem lá!
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmatina/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmatina/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](href="https://wa.me/5531994779072")
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielmatina@hotmail.com)
 
 ## 🖥️ Ferramentas para Desenvolvimento
 
