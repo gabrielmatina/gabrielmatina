@@ -1,12 +1,40 @@
 # 	🤖 Sobre Mim
-- 👋 Olá, me chamo Gabriel Matina da Silva;
-- 📚 Estudande de Desenvolvimento Web Full-Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>;
-- 💬 Estou em busca de vagas para em desenvolvimento full stack, QA, Data Science e Machine Learning;
-- 🗂️ Portfólio: <a href="https://gabrielmatina.github.io/">Clique para Visualizar</a>;
-- 📄 Currículo - [Clique para Visualizar](Curriculum.pdf);
-- 📧 Email: gabrielmatina@hotmail.com;
-- 📱 Celular: +55 (31) 99477-9072;
+
+📊 Apaixonado por dados, estou em uma jornada constante de aprendizado para me tornar um especialista em ciência de dados e inteligência artificial. Acredito no poder transformador dos dados para mudar o mundo de forma positiva. A ciência de dados, a análise de dados e a inteligência artificial têm o poder de transformar a vida das pessoas ao fornecer insights valiosos, automatizar tarefas complexas, melhorar a tomada de decisões e criar soluções inovadoras que tornam nosso dia a dia mais eficiente, seguro e inteligente.
+
+Estou sempre em busca de novos conhecimentos e desafios. Acredito que a empatia, o respeito e a diversidade são fundamentais para criar um mundo melhor. Venha comigo nessa jornada, "se dados é o novo petróleo", vamos juntos transformá-los em insights, para fazer do mundo um lugar melhor.
+
+🚀 Sozinho vou mais RÁPIDO, mas juntos VAMOS MAIS LONGE! 🌟
 <hr />
+
+## ⚡ **Principais Repositórios:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmatina&repo=DataScience-Portifolio\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gabrielmatina/DataScience-Portifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmatina&repo=DataAnalitycs-Portifolio\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gabrielmatina/DataAnalitycs-Portifolio)
+
+
+## 🚀 **Languages and Tools:**
+
+#### 💻 Uso diário (daily use):
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1E88E5?style=flat-square&logo=openai&logoColor=white)
+
+#### 🔧 Uso frequente (frequent use):
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MatPlotLib-ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LOOKER STUDIO](https://img.shields.io/badge/Looker_Studio-0000FF?style=flat-square&logo=looker&logoColor=white)
+
+
+
+
 
 ## 🌐 Social
 
@@ -57,7 +85,7 @@
 ## 🥅 Other
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
